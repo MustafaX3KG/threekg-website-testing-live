@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Americana",
+    "widthPercent": 78,
+    "heightPercent": 36,
+    "opticalX": 0.18,
+    "opticalY": -0.01
+  },
+  {
+    "name": "Kerma Dairy",
+    "widthPercent": 74,
+    "heightPercent": 38,
+    "opticalX": 1.17,
+    "opticalY": -0.41
+  },
+  {
+    "name": "MG Foods",
+    "widthPercent": 44,
+    "heightPercent": 49,
+    "opticalX": 1.0,
+    "opticalY": 2.12
+  },
+  {
+    "name": "Bruz",
+    "widthPercent": 72,
+    "heightPercent": 31,
+    "opticalX": 0.86,
+    "opticalY": -1.52
+  },
+  {
+    "name": "Waffy",
+    "widthPercent": 76,
+    "heightPercent": 36,
+    "opticalX": 1.16,
+    "opticalY": -1.29
+  },
+  {
+    "name": "Fasahet Somaya",
+    "widthPercent": 42,
+    "heightPercent": 42,
+    "opticalX": 0,
+    "opticalY": 0
+  },
+  {
+    "name": "Four Seasons Hotel Cairo",
+    "widthPercent": 74,
+    "heightPercent": 42,
+    "opticalX": 0.46,
+    "opticalY": -3
+  },
+  {
+    "name": "SRNTY Hotels",
+    "widthPercent": 78,
+    "heightPercent": 31,
+    "opticalX": 0,
+    "opticalY": 0
+  },
+  {
+    "name": "Novartis",
+    "widthPercent": 84,
+    "heightPercent": 31,
+    "opticalX": 1.32,
+    "opticalY": -1.08
+  },
+  {
+    "name": "Abbott",
+    "widthPercent": 78,
+    "heightPercent": 34,
+    "opticalX": -0.12,
+    "opticalY": -0.05
+  },
+  {
+    "name": "Nuxera",
+    "widthPercent": 78,
+    "heightPercent": 34,
+    "opticalX": 0,
+    "opticalY": 0
+  },
+  {
+    "name": "Plastic Bank",
+    "widthPercent": 84,
+    "heightPercent": 34,
+    "opticalX": 2.69,
+    "opticalY": -1.95
+  },
+  {
+    "name": "AFRIKA KOMMT!",
+    "widthPercent": 48,
+    "heightPercent": 48,
+    "opticalX": 0.04,
+    "opticalY": 0.64
+  },
+  {
+    "name": "AMAN",
+    "widthPercent": 76,
+    "heightPercent": 32,
+    "opticalX": 0,
+    "opticalY": 0
+  },
+  {
+    "name": "Fawry Plus",
+    "widthPercent": 60,
+    "heightPercent": 42,
+    "opticalX": -0.37,
+    "opticalY": 0.35
+  },
+  {
+    "name": "Orient Takaful",
+    "widthPercent": 78,
+    "heightPercent": 35,
+    "opticalX": -1.04,
+    "opticalY": 0.89
+  },
+  {
+    "name": "Tasaheel",
+    "widthPercent": 78,
+    "heightPercent": 35,
+    "opticalX": -2.26,
+    "opticalY": -0.35
+  },
+  {
+    "name": "ALEXBANK",
+    "widthPercent": 86,
+    "heightPercent": 30,
+    "opticalX": 0.13,
+    "opticalY": 0.22
+  },
+  {
+    "name": "KIPCO",
+    "widthPercent": 58,
+    "heightPercent": 45,
+    "opticalX": 0.54,
+    "opticalY": -0.95
+  },
+  {
+    "name": "Vodafone Egypt",
+    "widthPercent": 53,
+    "heightPercent": 46,
+    "opticalX": -0.14,
+    "opticalY": -1.15
+  },
+  {
+    "name": "ALX Arabia",
+    "widthPercent": 66,
+    "heightPercent": 42,
+    "opticalX": 1.02,
+    "opticalY": -1.03
+  },
+  {
+    "name": "Giza Systems",
+    "widthPercent": 78,
+    "heightPercent": 32,
+    "opticalX": 3,
+    "opticalY": 0.19
+  },
+  {
+    "name": "Salasa",
+    "widthPercent": 70,
+    "heightPercent": 43,
+    "opticalX": -1.44,
+    "opticalY": -0.38
+  },
+  {
+    "name": "Printbox",
+    "widthPercent": 44,
+    "heightPercent": 46,
+    "opticalX": 2.01,
+    "opticalY": -3
+  },
+  {
+    "name": "CCCJ Studio",
+    "widthPercent": 82,
+    "heightPercent": 42,
+    "opticalX": -2.7,
+    "opticalY": -0.25
+  },
+  {
+    "name": "DLNG",
+    "widthPercent": 76,
+    "heightPercent": 38,
+    "opticalX": 0.03,
+    "opticalY": -0.28
+  },
+  {
+    "name": "T&D Designs",
+    "widthPercent": 84,
+    "heightPercent": 32,
+    "opticalX": 0.08,
+    "opticalY": 0.62
+  },
+  {
+    "name": "Automobilak",
+    "widthPercent": 66,
+    "heightPercent": 45,
+    "opticalX": 0.13,
+    "opticalY": -1.31
+  },
+  {
+    "name": "Hyde Park",
+    "widthPercent": 57,
+    "heightPercent": 47,
+    "opticalX": 0.02,
+    "opticalY": -0.36
+  },
+  {
+    "name": "Masr 360",
+    "widthPercent": 79,
+    "heightPercent": 34,
+    "opticalX": 1.06,
+    "opticalY": 0.32
+  },
+  {
+    "name": "Tatweeg News",
+    "widthPercent": 81,
+    "heightPercent": 34,
+    "opticalX": 3,
+    "opticalY": 0.4
+  },
+  {
+    "name": "Thirteen",
+    "widthPercent": 86,
+    "heightPercent": 25,
+    "opticalX": -3,
+    "opticalY": 0.44
+  },
+  {
+    "name": "Joy Scents",
+    "widthPercent": 40,
+    "heightPercent": 43,
+    "opticalX": 0.09,
+    "opticalY": -0.34
+  },
+  {
+    "name": "Dr Scent",
+    "widthPercent": 82,
+    "heightPercent": 37,
+    "opticalX": 0.8,
+    "opticalY": -1.81
+  },
+  {
+    "name": "Jēra",
+    "widthPercent": 70,
+    "heightPercent": 40,
+    "opticalX": -1.14,
+    "opticalY": -0.14
+  },
+  {
+    "name": "Savola",
+    "widthPercent": 72,
+    "heightPercent": 40,
+    "opticalX": -0.16,
+    "opticalY": 0.01
+  },
+  {
+    "name": "Ganna",
+    "widthPercent": 47,
+    "heightPercent": 47,
+    "opticalX": 0.19,
+    "opticalY": 0.35
+  },
+  {
+    "name": "Rawaby",
+    "widthPercent": 62,
+    "heightPercent": 40,
+    "opticalX": -2.3,
+    "opticalY": -1.4
+  },
+  {
+    "name": "Kashat",
+    "widthPercent": 78,
+    "heightPercent": 34,
+    "opticalX": -2.0,
+    "opticalY": -2.41
+  },
+  {
+    "name": "Monka",
+    "widthPercent": 78,
+    "heightPercent": 33,
+    "opticalX": 0.19,
+    "opticalY": 0.2
+  },
+  {
+    "name": "Pepper",
+    "widthPercent": 58,
+    "heightPercent": 45,
+    "opticalX": -0.01,
+    "opticalY": 2.3
+  },
+  {
+    "name": "AFIED",
+    "widthPercent": 90,
+    "heightPercent": 26,
+    "opticalX": 3,
+    "opticalY": 0.24
+  },
+  {
+    "name": "Tamam",
+    "widthPercent": 43,
+    "heightPercent": 46,
+    "opticalX": 0.03,
+    "opticalY": -1.03
+  }
+]

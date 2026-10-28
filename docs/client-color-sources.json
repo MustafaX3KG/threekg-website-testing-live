@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Vodafone Egypt",
+    "websiteAsset": "assets/clients/color-01.svg",
+    "originalAsset": "assets/clients/client-01.png",
+    "sha256": "253cafe7e8e83deee0b651b4508d55613da4a4e805dd70d23035b7c6ab52e455",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-01.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Novartis",
+    "websiteAsset": "assets/clients/color-23.svg",
+    "originalAsset": "assets/clients/client-23.png",
+    "sha256": "7cb24ce3da0390503383884fdfa7a1fce54579e80246aebaf93e8bbc37fc7c81",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-23.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Abbott",
+    "websiteAsset": "assets/clients/color-21.svg",
+    "originalAsset": "assets/clients/client-21.png",
+    "sha256": "ab44eb1742078ba7c2978eec067a325071eff2158f16e1d802df84387fe7f9a4",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-21.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Orient Takaful",
+    "websiteAsset": "assets/clients/color-12.svg",
+    "originalAsset": "assets/clients/client-12.png",
+    "sha256": "7ff2d6140164842163f290fece9f8d690f06fc7cb08ed549c1a12532649a7aa4",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-12.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Kerma Dairy",
+    "websiteAsset": "assets/clients/color-43.svg",
+    "originalAsset": "assets/clients/client-43.png",
+    "sha256": "a1e7720bf54b987f66bb7a765db92c3bd9e972882ff797d4a3580e3092386f51",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-43.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Automobilak",
+    "websiteAsset": "assets/clients/color-33.svg",
+    "originalAsset": "assets/clients/client-33.png",
+    "sha256": "4de79abbd9fab0b93fcbd0f1c7027adabc260cb3c9fefe39dec5d4429b9ef863",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-33.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Jēra",
+    "websiteAsset": "assets/clients/color-26.svg",
+    "originalAsset": "assets/clients/client-26.png",
+    "sha256": "49945404595706a149f0489fe838d1ee6484058435f3047b65917d032b1fc120",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-26.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "AFIED",
+    "websiteAsset": "assets/clients/color-29.svg",
+    "originalAsset": "assets/clients/client-29.png",
+    "sha256": "d1c87dcbee80a4056921429e379113348f813eb80d58a93caaeef783a663a573",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-29.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Fasahet Somaya",
+    "websiteAsset": "assets/clients/color-30.svg",
+    "originalAsset": "assets/clients/client-30.png",
+    "sha256": "6a474fd76a1dc299505f63bf8ffa9832335dcec2f81f2396cd21493a5a7836a0",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-30.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "AMAN",
+    "websiteAsset": "assets/clients/color-20.svg",
+    "originalAsset": "assets/clients/color-client-20.png",
+    "sha256": "23d1ff7a549a2080b94a459826c4c61441445b008f91b958c2973aac7cfb7e27",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-20.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "DLNG",
+    "websiteAsset": "assets/clients/color-24.svg",
+    "originalAsset": "assets/clients/color-client-24.png",
+    "sha256": "b40bfa6e94a6565d29b1220a4e0ec00ea3fcfcf0574edb7785848b110ddd4c46",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-24.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Tatweeg News",
+    "websiteAsset": "assets/clients/color-25.svg",
+    "originalAsset": "assets/clients/color-client-25.png",
+    "sha256": "1b99551e01a966be56514db4e61e3bdcd888a8e48908c84921907b8ebdc09931",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-25.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Monka",
+    "websiteAsset": "assets/clients/color-27.svg",
+    "originalAsset": "assets/clients/color-client-27.png",
+    "sha256": "8b0a7b6164e75949baee6a0fb2cd5851716965ef47104cea82edaa4e9d0f9df5",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-27.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Waffy",
+    "websiteAsset": "assets/clients/color-28.svg",
+    "originalAsset": "assets/clients/color-client-28.png",
+    "sha256": "6b1c446e5b3e989171ca185e5408a1a1e2a681607772aa1eaa43539de1b1787f",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-28.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Savola",
+    "websiteAsset": "assets/clients/color-41.svg",
+    "originalAsset": "assets/clients/color-client-41.png",
+    "sha256": "59ba2d779988a6564ea5e47c0d6a1fdcf5f6c70f7efa4b32c51b819a219b82ff",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-41.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Tasaheel",
+    "websiteAsset": "assets/clients/color-51.svg",
+    "originalAsset": "assets/clients/color-client-51.png",
+    "sha256": "fb2489f70feb56e85744dbd7d29b5ee5a46f4b78e920c15aa5cab62e5a26f8d1",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-51.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Salasa",
+    "websiteAsset": "assets/clients/color-54.svg",
+    "originalAsset": "assets/clients/color-client-54.png",
+    "sha256": "51baea1c1e368b98bddb9d72b86b6c64392ff1d726666fff72ca0fae4807b74d",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-54.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Thirteen",
+    "websiteAsset": "assets/clients/color-59.svg",
+    "originalAsset": "assets/clients/color-client-59.png",
+    "sha256": "5263d1c4e9c12189b7e9adec9a564748413fcb156a34e620c091bf79fe4db0ca",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-59.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Four Seasons Hotel Cairo",
+    "websiteAsset": "assets/clients/color-61.svg",
+    "originalAsset": "assets/clients/color-client-61.png",
+    "sha256": "f9cb48109e228a2687d893235137877966b71dc603b63ba8a81ac539fc12ce70",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-61.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Pepper",
+    "websiteAsset": "assets/clients/color-63.svg",
+    "originalAsset": "assets/clients/color-client-63.png",
+    "sha256": "5ebd63f2ba5a965ee5f1bbffa278ebf39e80bea6d66c73ff77e082cb78110339",
+    "source": "ThreeKG/3kg-Website, 801aeea4684d71c8d5665dfea634155695f9f6c8, Prototype/Deploy-v2-light-mode/public/clients/client-63.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Kashat",
+    "websiteAsset": "assets/clients/official-kashat.svg",
+    "originalAsset": "assets/clients/official-kashat.png",
+    "sha256": "37e9a77f17c4424140e3e5035ab80d541cf17cb1107c6cd9435ce462ce53533c",
+    "source": "https://kashat.com.eg/static/8a0b68bac20c3eefc3ccf68bd8d3a0be/33f13/Kashat%20EN.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  },
+  {
+    "name": "Masr 360",
+    "websiteAsset": "assets/clients/official-masr360.svg",
+    "originalAsset": "assets/clients/official-masr360.png",
+    "sha256": "3ce538d1f76be8d5dd1b7ceba232b9652e708783be65f3ff62c7ff7c0d7f4d27",
+    "source": "https://masr360.net/wp-content/uploads/2024/05/masr360.png",
+    "treatment": "Original color pixels; SVG viewBox excludes empty margins only."
+  }
+]

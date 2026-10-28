@@ -1,0 +1,8 @@
+# full export pack stays local — site uses assets/brand/motion only
+assets/brand/3KG_Symbol_Motion_Exports_v1/
+
+# local preview server
+server.js
+# Local WordPress packaging output and animation handoff sources.
+build/
+wordpress/threekg-revamp/assets/brand/3KG_Symbol_Motion_Exports_v1/
